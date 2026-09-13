@@ -1,0 +1,6 @@
+{
+  "name": "考研英语错题复盘神器",
+  "description": "专为考研英语定制的错题集与AI深度诊断分析工具，通过收集历年真题错题记录，自动分析薄弱点并生成提分策略。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
